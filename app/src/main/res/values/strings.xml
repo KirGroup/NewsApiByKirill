@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Newzz</string>
+    <string name="error_message">Error Occured</string>
+    <string name="favorites">Favorites</string>
+    <string name="category_news">News</string>
+    <string name="category_favorite">Favorites</string>
+</resources>
